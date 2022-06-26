@@ -1,2 +1,3 @@
 # react-portfolio-website
-First Time
+React Potfolio Website Project
+trying to adapt from dev to PM
